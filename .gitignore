@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+old/
+PrayTimes/
+Main.py
+mygui.py
+gui_app.py
+READMe.md
